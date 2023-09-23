@@ -1,4 +1,3 @@
 # Redress
 
-Offline shopping experience reinvented: personalized & curated instant experience. 
-Generative AI & Virtual-try-on.
+Generative AI with aim to reinvent offline shopping experience: personalized & curated instant experience. 
